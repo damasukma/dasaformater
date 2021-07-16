@@ -1,0 +1,17 @@
+{
+    "property":{
+        "users":{
+            "id": "int",
+            "name": "string"
+        }
+    },
+    "attributes":{
+        "columns_alias": 
+        [
+            {
+                "from": "id",
+                "to": ["uuid", "int"]    
+            }
+        ]
+    }
+}

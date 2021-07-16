@@ -1,0 +1,4 @@
+{
+    "driver": "postgres",
+    "path": "models/user.json"
+}
